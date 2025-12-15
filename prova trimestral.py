@@ -1,1 +1,1 @@
-print ("ola professor esta e a minha prova ")
+print ("ola professor esta e a minha prova")

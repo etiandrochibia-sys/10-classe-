@@ -1,1 +1,3 @@
-print ("ola professor esta e a minha prova")
+print ("ola professor está e a minha prova")
+
+print("Obrigado :)")
